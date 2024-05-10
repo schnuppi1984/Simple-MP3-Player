@@ -1,2 +1,3 @@
 Pygame its need
-![](D:\Dev\Python Projekte\Simple-MP3-Player\simple player.jpg)
+
+![](https://github.com/schnuppi1984/Simple-MP3-Player/blob/main/simple%20player.jpg)
